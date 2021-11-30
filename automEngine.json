@@ -1,0 +1,1878 @@
+{
+   "etag": "\"MjAyMS0xMS0yOVQwMToxODowMC43Nzla\"",
+   "items": [
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ4NjgwNzc5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2177028049310446645",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:18:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2177028049310446645/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2177028049310446645",
+         "title": "History of the automobile",
+         "updated": "2021-11-28T17:18:00-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/history-of-automobile.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ4NTE5OTM4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3048674690907639400",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:15:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3048674690907639400/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3048674690907639400",
+         "title": "Automotive engineering",
+         "updated": "2021-11-28T17:15:19-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/automotive-engineering.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ4NDIxMjg3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2700118671035412214",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:13:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2700118671035412214/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2700118671035412214",
+         "title": "Front-engine, front-wheel-drive layout",
+         "updated": "2021-11-28T17:13:41-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/front-engine-front-wheel-drive-layout.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ4Mjk3MTU5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2056238513901042001",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:11:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2056238513901042001/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2056238513901042001",
+         "title": "Front-engine, four-wheel-drive layout",
+         "updated": "2021-11-28T17:11:37-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/front-engine-four-wheel-drive-layout.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ4MjAyNDgwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "979362177176882115",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:10:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/979362177176882115/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/979362177176882115",
+         "title": "Tilt test (vehicle safety test)",
+         "updated": "2021-11-28T17:10:02-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/tilt-test-vehicle-safety-test.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ4MTM5ODQ0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6936236507709099971",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:08:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6936236507709099971/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6936236507709099971",
+         "title": "Chassis",
+         "updated": "2021-11-28T17:08:59-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/chassis.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ4MDU5Njc3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2410174339296267030",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:07:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2410174339296267030/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2410174339296267030",
+         "title": "A Types",
+         "updated": "2021-11-28T17:07:39-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/a-types.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ3OTg2NTcyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7904185090784486604",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:06:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7904185090784486604/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7904185090784486604",
+         "title": "Backbone chassis",
+         "updated": "2021-11-28T17:06:26-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/backbone-chassis.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ3OTAzMzY2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2646570062827117969",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:05:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2646570062827117969/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2646570062827117969",
+         "title": "Fibre channel frame",
+         "updated": "2021-11-28T17:05:03-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/fibre-channel-frame.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ3ODI2MTI3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3350523112440234712",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:03:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3350523112440234712/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3350523112440234712",
+         "title": "Frameless construction",
+         "updated": "2021-11-28T17:03:46-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/frameless-construction.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ3NzQ1OTc1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5924009579715484762",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:02:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5924009579715484762/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5924009579715484762",
+         "title": "Oldsmobile Tube Car ",
+         "updated": "2021-11-28T17:02:25-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/oldsmobile-tube-car.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ3Njg5OTYwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3659024350490579187",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:01:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3659024350490579187/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3659024350490579187",
+         "title": "Dry steering ",
+         "updated": "2021-11-28T17:01:29-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/dry-steering.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ3NjI0ODEyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4126158386298373377",
+         "kind": "blogger#post",
+         "published": "2021-11-28T17:00:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4126158386298373377/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4126158386298373377",
+         "title": "Centrifugal governor",
+         "updated": "2021-11-28T17:00:24-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/centrifugal-governor.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ3NTA5NjI4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "316883463606589083",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:58:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/316883463606589083/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/316883463606589083",
+         "title": "Clutch",
+         "updated": "2021-11-28T16:58:29-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/clutch.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ3NDA4OTg0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8615144830324835587",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:56:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/8615144830324835587/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/8615144830324835587",
+         "title": "Gear",
+         "updated": "2021-11-28T16:56:48-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/gear.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ3MTc4NDU3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6010256342669107476",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:52:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6010256342669107476/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6010256342669107476",
+         "title": "Manual transmission",
+         "updated": "2021-11-28T16:52:58-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/manual-transmission.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ3MDA1NDA5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4014843952291452319",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:50:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4014843952291452319/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4014843952291452319",
+         "title": "Transmission system",
+         "updated": "2021-11-28T16:50:05-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/transmission-system.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ2OTIwMzgzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7356806190161005247",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:48:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7356806190161005247/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7356806190161005247",
+         "title": "Torque",
+         "updated": "2021-11-28T16:48:40-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/torque.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ2Njc5NzYyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5432445103211554238",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:44:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5432445103211554238/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5432445103211554238",
+         "title": "Epicyclic gearing",
+         "updated": "2021-11-28T16:44:39-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/epicyclic-gearing.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ2NTIxMDUyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7033026447680300939",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:42:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7033026447680300939/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7033026447680300939",
+         "title": "Torque multiplier",
+         "updated": "2021-11-28T16:42:01-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/torque-multiplier.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ2NDQ4ODk3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4522943216023646187",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4522943216023646187/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4522943216023646187",
+         "title": "Transmission solenoid",
+         "updated": "2021-11-28T16:40:48-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/transmission-solenoid.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ2MzczODMzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4695017755504060278",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4695017755504060278/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4695017755504060278",
+         "title": "Overdrive",
+         "updated": "2021-11-28T16:39:33-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/overdrive.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ2Mjg3MDg1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2626585837957866639",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:38:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2626585837957866639/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2626585837957866639",
+         "title": "Constant-velocity joint",
+         "updated": "2021-11-28T16:38:07-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/constant-velocity-joint.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ2MTYxODIwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3073491179586950247",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:36:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3073491179586950247/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3073491179586950247",
+         "title": "Differential",
+         "updated": "2021-11-28T16:36:01-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/differential.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ2MDgwNjYwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3502075406283556338",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:34:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3502075406283556338/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3502075406283556338",
+         "title": "Inexact differential",
+         "updated": "2021-11-28T16:34:40-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/inexact-differential.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ1OTg1ODAyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7996883616781097492",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7996883616781097492/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7996883616781097492",
+         "title": "Limited-slip differential",
+         "updated": "2021-11-28T16:33:05-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/limited-slip-differential.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ1ODYxNjAzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2508526582306720127",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2508526582306720127/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2508526582306720127",
+         "title": "Axle",
+         "updated": "2021-11-28T16:31:01-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/axle.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ1NzMxMTU0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "276994224340857514",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/276994224340857514/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/276994224340857514",
+         "title": "Live axle",
+         "updated": "2021-11-28T16:28:51-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/live-axle.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ1NjQyMDY5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8262304623034317878",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:27:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/8262304623034317878/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/8262304623034317878",
+         "title": "Steering",
+         "updated": "2021-11-28T16:27:22-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/steering.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ1NDk0ODY5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6899571548745249493",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:24:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6899571548745249493/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6899571548745249493",
+         "title": "Beam steering",
+         "updated": "2021-11-28T16:24:54-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/beam-steering.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ1NDI4NjAwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5991810312543023679",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:23:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5991810312543023679/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5991810312543023679",
+         "title": "Steering ratio",
+         "updated": "2021-11-28T16:23:48-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/steering-ratio.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQ1MzYwMTg3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5117203043750596951",
+         "kind": "blogger#post",
+         "published": "2021-11-28T16:22:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5117203043750596951/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5117203043750596951",
+         "title": "Panhard rod",
+         "updated": "2021-11-28T16:22:40-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/panhard-rod.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQzNjU3NjYyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7437068458678819255",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:54:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7437068458678819255/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7437068458678819255",
+         "title": "Ackermann steering geometry",
+         "updated": "2021-11-28T15:54:17-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/ackermann-steering-geometry.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQzNTgxNTE5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1792504227824222673",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:53:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/1792504227824222673/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/1792504227824222673",
+         "title": "Cornering force",
+         "updated": "2021-11-28T15:53:01-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/cornering-force.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQzNTEzMTE2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5593480290392988253",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:51:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5593480290392988253/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5593480290392988253",
+         "title": "Slip angle",
+         "updated": "2021-11-28T15:51:53-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/slip-angle.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQzNDA5NTcxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7932448953519726664",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:50:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7932448953519726664/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7932448953519726664",
+         "title": "Active steering",
+         "updated": "2021-11-28T15:50:09-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/active-steering.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQzMzMxNjI4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "949175268051019133",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:48:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/949175268051019133/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/949175268051019133",
+         "title": "Gearbox Software",
+         "updated": "2021-11-28T15:48:51-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/gearbox-software.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQzMjAyMTY5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5350261001510245088",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:46:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5350261001510245088/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5350261001510245088",
+         "title": "Drag link",
+         "updated": "2021-11-28T15:46:42-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/drag-link.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQzMTIxNzE0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8372600287156008520",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:45:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/8372600287156008520/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/8372600287156008520",
+         "title": "Power steering",
+         "updated": "2021-11-28T15:45:21-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/power-steering.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQzMDE5NjEwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6863113275270861116",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:43:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6863113275270861116/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6863113275270861116",
+         "title": "Steering wheel",
+         "updated": "2021-11-28T15:43:39-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/steering-wheel.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQyODU4NTQwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4453591202594666416",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:40:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4453591202594666416/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4453591202594666416",
+         "title": "Beam axle",
+         "updated": "2021-11-28T15:40:58-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/beam-axle.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQyNzY4NDYwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5529043487241474113",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:39:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5529043487241474113/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5529043487241474113",
+         "title": "Double Axle",
+         "updated": "2021-11-28T15:39:28-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/double-axle.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQyNjcxMDgyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1928711070158706269",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:37:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/1928711070158706269/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/1928711070158706269",
+         "title": "Multi-axle bus",
+         "updated": "2021-11-28T15:37:51-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/multi-axle-bus.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQyNDM4NzU3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1115558457596477274",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:33:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/1115558457596477274/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/1115558457596477274",
+         "title": "Wheel",
+         "updated": "2021-11-28T15:33:58-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/wheel.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQyMzA1ODc5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "661254463781575289",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/661254463781575289/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/661254463781575289",
+         "title": "Wheel alignment",
+         "updated": "2021-11-28T15:31:45-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/wheel-alignment.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQyMjExMzcwCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3399534804171497217",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:30:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3399534804171497217/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3399534804171497217",
+         "title": "Merrill Wheel-Balancing System",
+         "updated": "2021-11-28T15:30:11-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/merrill-wheel-balancing-system.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQyMTQ3NjIxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3652827983046287896",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3652827983046287896/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3652827983046287896",
+         "title": "Tyre",
+         "updated": "2021-11-28T15:29:07-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/tyre.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQyMDgzNjU5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4885203463099947318",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:28:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4885203463099947318/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4885203463099947318",
+         "title": "Tread",
+         "updated": "2021-11-28T15:28:03-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/tread.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQxOTk0ODU0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "336802708829555454",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:26:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/336802708829555454/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/336802708829555454",
+         "title": "Tread Marks",
+         "updated": "2021-11-28T15:26:34-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/tread-marks.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQxODUzMDQ3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2731273673972342152",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:24:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2731273673972342152/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2731273673972342152",
+         "title": "Suspension",
+         "updated": "2021-11-28T15:24:13-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/suspension.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQxNzg1NzA1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4694438569607434546",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:23:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4694438569607434546/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4694438569607434546",
+         "title": "Sprung mass",
+         "updated": "2021-11-28T15:23:05-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/sprung-mass.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQxNjk0NDc2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4799431380580524204",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:21:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4799431380580524204/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4799431380580524204",
+         "title": "Unsprung mass",
+         "updated": "2021-11-28T15:21:34-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/unsprung-mass.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQxNTA4MTk4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6605100323374499306",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:18:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6605100323374499306/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6605100323374499306",
+         "title": "Leaf spring",
+         "updated": "2021-11-28T15:18:28-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/leaf-spring.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQxMzY3MDE0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "9112667417082820237",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:16:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/9112667417082820237/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/9112667417082820237",
+         "title": "Suspension (vehicle)",
+         "updated": "2021-11-28T15:16:07-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/suspension-vehicle.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQxMTczMDc4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "1418031345261721439",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:12:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/1418031345261721439/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/1418031345261721439",
+         "title": "Drum brake",
+         "updated": "2021-11-28T15:12:53-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/drum-brake.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTQxMDUyMDU2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "918287453517326221",
+         "kind": "blogger#post",
+         "published": "2021-11-28T15:10:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/918287453517326221/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/918287453517326221",
+         "title": "Single-leading-shoe drum brake",
+         "updated": "2021-11-28T15:10:52-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/single-leading-shoe-drum-brake.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTM4NjY5OTA2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "4273595614608258353",
+         "kind": "blogger#post",
+         "published": "2021-11-28T14:31:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4273595614608258353/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/4273595614608258353",
+         "title": "Shock absorber",
+         "updated": "2021-11-28T14:31:09-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/shock-absorber.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTM4NTYwNzg2Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2636619063026210301",
+         "kind": "blogger#post",
+         "published": "2021-11-28T14:29:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2636619063026210301/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2636619063026210301",
+         "title": "Hydraulic ram",
+         "updated": "2021-11-28T14:29:20-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/hydraulic-ram.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTIyNzk4ODU1Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5503183414247829777",
+         "kind": "blogger#post",
+         "published": "2021-11-28T10:06:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5503183414247829777/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5503183414247829777",
+         "title": "Auxiliary hydraulic system",
+         "updated": "2021-11-28T10:06:38-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/auxiliary-hydraulic-system.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTIyNjg5NDE4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8435725888390087456",
+         "kind": "blogger#post",
+         "published": "2021-11-28T10:04:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/8435725888390087456/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/8435725888390087456",
+         "title": "Servo",
+         "updated": "2021-11-28T10:04:49-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/servo.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTIyNTA4NjY4Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "2176058739064747450",
+         "kind": "blogger#post",
+         "published": "2021-11-28T10:01:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2176058739064747450/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/2176058739064747450",
+         "title": "Battery",
+         "updated": "2021-11-28T10:01:48-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/battery.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTIyNDIyMzQ0Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7805681852238825368",
+         "kind": "blogger#post",
+         "published": "2021-11-28T10:00:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7805681852238825368/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7805681852238825368",
+         "title": "Lighting",
+         "updated": "2021-11-28T10:00:22-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/lighting.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTEzMjU3ODY3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6284233746875308028",
+         "kind": "blogger#post",
+         "published": "2021-11-28T07:27:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6284233746875308028/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6284233746875308028",
+         "title": "Horn",
+         "updated": "2021-11-28T07:27:37-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/horn.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTEzMTU2NTM3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6594403588693981449",
+         "kind": "blogger#post",
+         "published": "2021-11-28T07:25:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6594403588693981449/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6594403588693981449",
+         "title": "Wipers",
+         "updated": "2021-11-28T07:25:56-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/wipers.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTEzMDIzNDc5Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "8292642412077366761",
+         "kind": "blogger#post",
+         "published": "2021-11-28T07:23:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/8292642412077366761/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/8292642412077366761",
+         "title": "Parking sensors",
+         "updated": "2021-11-28T07:23:43-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/parking-sensors.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTEyOTE4NTE3Cm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3969280995554508669",
+         "kind": "blogger#post",
+         "published": "2021-11-28T07:21:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3969280995554508669/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3969280995554508669",
+         "title": "Electronic stability control",
+         "updated": "2021-11-28T07:21:58-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/electronic-stability-control.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTEyNTMxNjkzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "3162856911441428152",
+         "kind": "blogger#post",
+         "published": "2021-11-28T07:15:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3162856911441428152/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/3162856911441428152",
+         "title": "Traction control system",
+         "updated": "2021-11-28T07:15:31-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/traction-control-system.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTEyNDI1MDMyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "865549123982521623",
+         "kind": "blogger#post",
+         "published": "2021-11-28T07:13:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/865549123982521623/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/865549123982521623",
+         "title": "Hybrid drive",
+         "updated": "2021-11-28T07:13:45-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/hybrid-drive.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTEyMjg2NDUxCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "7734671610736600650",
+         "kind": "blogger#post",
+         "published": "2021-11-28T07:11:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7734671610736600650/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/7734671610736600650",
+         "title": "Propulsion",
+         "updated": "2021-11-28T07:11:26-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/propulsion.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTEyMTY5OTQyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "6001822303218197598",
+         "kind": "blogger#post",
+         "published": "2021-11-28T07:09:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6001822303218197598/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/6001822303218197598",
+         "title": "Geometric design of roads",
+         "updated": "2021-11-28T07:09:29-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/geometric-design-of-roads.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTExNjA5NjEyCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5751768730015745383",
+         "kind": "blogger#post",
+         "published": "2021-11-28T07:00:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5751768730015745383/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5751768730015745383",
+         "title": "Seat belt",
+         "updated": "2021-11-28T07:00:09-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/seat-belt.html"
+      },
+      {
+         "author": {
+            "displayName": "Musri'ah",
+            "id": "16238446485332786313",
+            "image": {
+               "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+            },
+            "url": "https://www.blogger.com/profile/16238446485332786313"
+         },
+         "blog": {
+            "id": "2402495397299433281"
+         },
+         "content": "",
+         "etag": "\"dGltZXN0YW1wOiAxNjM4MTExMzgxNjUzCm9mZnNldDogLTI4ODAwMDAwCg\"",
+         "id": "5672228546117946058",
+         "kind": "blogger#post",
+         "published": "2021-11-28T06:56:00-08:00",
+         "replies": {
+            "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5672228546117946058/comments",
+            "totalItems": "0"
+         },
+         "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2402495397299433281/posts/5672228546117946058",
+         "title": "Seat belt legislation",
+         "updated": "2021-11-28T06:56:21-08:00",
+         "url": "http://automobileengineerwiki.blogspot.com/2021/11/seat-belt-legislation.html"
+      }
+   ],
+   "kind": "blogger#postList"
+}
